@@ -4,8 +4,8 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Convertor ",
-    "short_name": "Convertor",
+    "name": "Converto ",
+    "short_name": "Converto",
     "description": "Online File Convertor",
     "icons": [
         {

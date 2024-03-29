@@ -1,9 +1,9 @@
 export default function PrivacyPolicy() {
   return (
     <div className="space-y-12 text-md md:text-lg text-gray-500 pb-4 md:pb-8">
-      <p>Effective Date: Wed 6 Sep 2023</p>
+      <p>Effective Date: Fri 29 Mar 2024</p>
       <p>
-        At Modifio, we are committed to safeguarding your privacy. This Privacy
+        At Converto, we are committed to safeguarding your privacy. This Privacy
         Policy outlines our practices regarding the collection, use, and
         disclosure of personal information when you use our website and
         services. Please read this policy carefully to understand how we handle
@@ -15,7 +15,7 @@ export default function PrivacyPolicy() {
         </h2>
         <p>
           We collect and use limited information to improve the user experience.
-          The only data we collect is through Google Analytics, which includes:
+          The only data we collect is through Vercel Analytics, which includes:
           Usage Information: We may collect information about your interaction
           with our website, such as the pages you visit, your IP address,
           browser type, device type, and referral URLs. This information helps
@@ -110,7 +110,7 @@ export default function PrivacyPolicy() {
       </div>
 
       <p>
-        By using Modifio, you agree to the practices outlined in this Privacy
+        By using Converto, you agree to the practices outlined in this Privacy
         Policy. Please discontinue use of our services if you do not agree with
         this policy. Thank you for trusting us with your privacy.
       </p>

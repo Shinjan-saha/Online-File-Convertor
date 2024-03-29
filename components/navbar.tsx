@@ -20,9 +20,9 @@ export default function Navbar({}): any {
         <Image
           alt="logo"
           className="cursor-pointer w-40"
-          src="/images/convertor.jpg"
-          height={100}
-          width={170}
+          src="/converto.png"
+          height={41}
+          width={171}
         />
       </Link>
       <div className="gap-1 md:gap-2 lg:gap-4 hidden md:flex">

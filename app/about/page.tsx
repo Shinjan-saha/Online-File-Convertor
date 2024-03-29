@@ -2,7 +2,7 @@ export default function About() {
   return (
     <div className="space-y-12 text-md md:text-lg text-gray-500 pb-4 md:pb-8">
       <p>
-        Introducing Modifio, the ultimate multimedia conversion powerhouse that
+        Introducing Converto, the ultimate multimedia conversion powerhouse that
         empowers you to transform images, audio files, and videos with
         unprecedented freedom, all at absolutely no cost! Say goodbye to
         limitations and hello to limitless creative possibilities.
@@ -59,7 +59,7 @@ export default function About() {
           🌐 Accessible Anywhere:
         </h2>
         <p>
-          Access Modifio from any device with an internet connection. Whether
+          Access Converto from any device with an internet connection. Whether
           you're on your computer, tablet, or smartphone, you can use our
           platform with ease.
         </p>
@@ -100,12 +100,12 @@ export default function About() {
 
       <div className="space-y-2">
         <h2 className="text-xl md:text-2xl font-medium text-gray-700">
-          🌟 It's Free, It's Powerful, It's Modifio:
+          🌟 It's Free, It's Powerful:
         </h2>
         <p>
           Experience the freedom to convert images, audio, and video without
           boundaries. Elevate your multimedia projects with the unlimited
-          potential of Modifio.
+          potential of Converto.
         </p>
       </div>
 
