@@ -105,7 +105,7 @@ export default function PrivacyPolicy() {
         <p>
           If you have any questions or concerns about this Privacy Policy or the
           data we collect, please contact us at
-          souhailbenlhachemi1999@gmail.com.
+          shinjansaha02@gmail.com.
         </p>
       </div>
 
