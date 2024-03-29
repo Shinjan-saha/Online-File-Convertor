@@ -8,4 +8,12 @@
 
 👉 [Live Demo](https://online-file-convertor-shinjan.vercel.app/) 👈
 
+## To Run it on Docker :-
+
+Use  this command to run docker image in your system
+
+```bash
+docker pull shinjan02/converto:latest
+```
+
 
